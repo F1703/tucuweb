@@ -74,31 +74,32 @@
   </head>
   <body>
     <!-- nav -->
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
+    <nav class="navbar navbar-inverse" >
+      <div class="container-fluid" >
+        <div class="navbar-header" >
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Inicio</a>
+          <a class="navbar-brand" href="#top">Inicio</a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Mision <span class="sr-only">(current)</span></a></li>
-            <li><a href="#">Vision</a></li>
+            <li class="active"><a href="#ob">Objetivos <span class="sr-only">(current)</span></a></li>
+            <li><a href="#mi">Mision</a></li>
+            <li><a href="#vi">Vision</a></li>
+            <li><a href="#co">Contacto</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
     <!-- end-nav -->
 
-    <header class="header">
+
+    <header class="header" id="top">
       <div class="container">
         <div class="col-md-6 col-sm-12 col-md-offset3 wrapper" >
             <br>
@@ -109,7 +110,7 @@
     </header>
 
 
-    <section class="objetivo">
+    <section class="objetivo" id="ob">
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Objetivos</h2>
@@ -119,7 +120,7 @@
       </div>
     </section>
 
-    <section class="mision">
+    <section class="mision" id="mi">
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Misión</h2>
@@ -129,7 +130,7 @@
     </section>
 
 
-    <section class="vision">
+    <section class="vision" id="vi">
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Visión</h2>
@@ -140,7 +141,7 @@
       </div>
     </section>
 
-    <aside class="aside">
+    <aside class="aside" id="co">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
