@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <style media="screen">
       body{
-        background-image: url("http://elcirculomedia.com.ve/wp-content/uploads/2017/02/web-development-university-worcester-course-page-header.jpg");
+        background-image: url("/img/fondo.jpg");
         background-attachment: fixed;
       }
 
@@ -114,7 +114,9 @@
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Objetivos</h2>
+          <br>
           <p>Brindar un servicio de diseño y desarrollo de páginas web y aplicaciones web</p>
+          <br>
           <p>Asegurar que las páginas o aplicaciones solicitadas por por nuestros clientes sean fáciles de aprender a utilizar por parte de los mismos</p>
         </div>
       </div>
@@ -124,6 +126,7 @@
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Misión</h2>
+          <br>
           <p>Somos una pequeña empresa que quiere dedicarse al desarrollo y diseño de páginas web y aplicaciones web altamente interactivas. Queremos brindar nuestro servicio acorde a lo que los clientes necesiten de manera que ellos vean mejoras en su organización. Utilizando las ultimas tecnologias OPEN SOURCE.</p>
         </div>
       </div>
@@ -134,6 +137,7 @@
       <div class="container">
         <div class="col-lg-12 text-center">
           <h2>Visión</h2>
+          <br>
           <p>
             La visión de nuestra empresa es ser la mejora desarrollando páginas web en la región. Brindando un servicio de calidad, adaptándonos al impacto de las nuevas tecnologías y las necesidades cambiantes de nuestros clientes.
           </p>
@@ -146,6 +150,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h3>Contactenos</h3>
+            <br>
             <ul class="list-inline">
               <li>
                 <h4>
