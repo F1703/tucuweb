@@ -74,7 +74,7 @@
   </head>
   <body>
     <!-- nav -->
-    <nav class="navbar navbar-inverse" >
+    <nav class="navbar navbar-inverse navbar-fixed-top" >
       <div class="container-fluid" >
         <div class="navbar-header" >
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -88,7 +88,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#ob">Objetivos <span class="sr-only">(current)</span></a></li>
+            <li><a href="#ob">Objetivos <span class="sr-only">(current)</span></a></li>
             <li><a href="#mi">Mision</a></li>
             <li><a href="#vi">Vision</a></li>
             <li><a href="#co">Contacto</a></li>
