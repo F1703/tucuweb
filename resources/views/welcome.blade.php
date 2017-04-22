@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <style media="screen">
       body{
-        background-image: url("http://wallpaperlayer.com/img/2015/9/code-wallpaper-8238-8558-hd-wallpapers.jpg");
+        background-image: url("http://elcirculomedia.com.ve/wp-content/uploads/2017/02/web-development-university-worcester-course-page-header.jpg");
         background-attachment: fixed;
       }
 
