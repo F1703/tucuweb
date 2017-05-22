@@ -14,7 +14,6 @@
         background-image: url("/img/fondo.jpg");
         background-attachment: fixed;
       }
-
       h1{
         color: rgb(241, 246, 5);
         font-size: 50px;
